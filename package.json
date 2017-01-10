@@ -1,0 +1,32 @@
+{
+  "name": "hapi_temp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+	"dependencies": {
+		"vinyl-source-stream": "latest",
+		"browserify": "latest",
+		"babel-cli": "latest",
+		"babel-preset-es2015": "latest",
+		"babel-preset-react": "latest",
+		"gulp": "latest",
+		"gulp-babel": "latest",
+		"gulp-nodemon": "latest",
+		"run-sequence": "latest",
+		"hapi": "latest",
+		"nunjucks": "latest",
+		"babelify": "latest",
+		"handlebars": "latest",
+		"path": "latest",
+		"hoek": "latest",
+		"vision": "latest",
+		"inert": "latest",
+		"react": "latest",
+		"react-dom": "latest"
+	}
+}
